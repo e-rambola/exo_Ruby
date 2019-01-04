@@ -1,4 +1,5 @@
 exercices ruby jeudi et vendredi plus explication
+Le Pyramide se trouve en dernier ligne
 
 exo_03.rb : la ligne 2 devient un commentaire
 exo_04.rb : il affiche une erreur car manque le " fermant le string
